@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+🔭 I like to work with on React.js, Javascript and Typescript 💻.
+🤝 I like to work in a team, I am fearless and love to learn new technology.
+🤔 I’m looking forward to keep practicing what I have learnt so far.
+⚡ Little about me: I love spending time with my family, practice sports (🏋️‍♂️, , 🏄‍♂️), music 🎵 and reading books 📚.
 <!--
 **Mariyyah-Alrasheed/Mariyyah-Alrasheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
